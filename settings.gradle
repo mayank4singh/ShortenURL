@@ -1,0 +1,3 @@
+
+rootProject.name = "DataURL"
+include ':app'
